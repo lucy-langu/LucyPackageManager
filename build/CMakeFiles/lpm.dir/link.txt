@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lpm.dir/lpm.cpp.o -o lpm 

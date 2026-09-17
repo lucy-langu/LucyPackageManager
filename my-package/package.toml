@@ -1,0 +1,7 @@
+[package]
+name = "my_package"
+version = "1.0.0"
+version-lucy = ">=1.0"
+
+[dependencies]
+# "some_lib" = ">=1.2.0"
