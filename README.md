@@ -56,4 +56,3 @@ version-lucy = ">=1.0"
 ## Contact & Support
 
 Developed by **Dr.F0G3J3**  
-Telegram: [@n0broot](https://t.me/n0broot)
